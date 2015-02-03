@@ -50,6 +50,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="2"
                         android:layout_height="match_parent"
+                        android:textSize="29sp"
                         android:text="("
                         android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:id="@+id/button14" />
@@ -57,14 +58,18 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
+                        android:textSize="29sp"
                         android:layout_height="fill_parent"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:text=")"
                         android:id="@+id/button18" />
 
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
+                        android:textSize="29sp"
                         android:layout_height="fill_parent"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:text="DEL"
                         android:id="@+id/button19" />
                 </LinearLayout>
@@ -78,7 +83,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="fill_parent"
                         android:text="1"
                         android:id="@+id/button8" />
@@ -86,7 +92,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="fill_parent"
                         android:text="2"
                         android:id="@+id/button7" />
@@ -94,7 +101,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="fill_parent"
                         android:text="3"
                         android:id="@+id/button6" />
@@ -111,7 +119,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="match_parent"
                         android:text="4"
                         android:id="@+id/button9" />
@@ -119,7 +128,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="match_parent"
                         android:text="5"
                         android:id="@+id/button10" />
@@ -127,7 +137,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="match_parent"
                         android:text="6"
                         android:id="@+id/button11" />
@@ -142,7 +153,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="fill_parent"
                         android:text="7"
                         android:id="@+id/button5" />
@@ -150,7 +162,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="fill_parent"
                         android:text="8"
                         android:id="@+id/button12" />
@@ -158,7 +171,8 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
-
+                        android:textSize="29sp"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:layout_height="fill_parent"
                         android:text="9"
                         android:id="@+id/button13" />
@@ -173,22 +187,28 @@
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
+                        android:textSize="29sp"
                         android:layout_height="fill_parent"
                         android:text="0"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:id="@+id/button15" />
 
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
+                        android:textSize="29sp"
                         android:layout_height="fill_parent"
                         android:text="."
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:id="@+id/button16" />
 
                     <Button
                         android:layout_width="0dp"
                         android:layout_weight="2"
+                        android:textSize="29sp"
                         android:layout_height="fill_parent"
                         android:text="+/-"
+                        android:background="@drawable/themecalculaladora_btn_default_holo_light"
                         android:id="@+id/button17" />
                 </LinearLayout>
 
@@ -200,6 +220,7 @@
                 android:orientation="vertical"
                 android:layout_width="0dp"
                 android:layout_weight="1"
+                android:textSize="29sp"
                 android:layout_height="fill_parent"
                 android:layout_gravity="center_horizontal"
                 android:gravity="center|bottom">
@@ -208,35 +229,45 @@
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:textSize="29sp"
                     android:text="+"
+                    android:background="@drawable/themecalculaladorapink_btn_default_holo_light"
                     android:id="@+id/button" />
 
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:textSize="29sp"
                     android:text="-"
+                    android:background="@drawable/themecalculaladorapink_btn_default_holo_light"
                     android:id="@+id/button2" />
 
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:textSize="29sp"
                     android:text="*"
+                    android:background="@drawable/themecalculaladorapink_btn_default_holo_light"
                     android:id="@+id/button3" />
 
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:textSize="29sp"
                     android:text="/"
+                    android:background="@drawable/themecalculaladorapink_btn_default_holo_light"
                     android:id="@+id/button4" />
 
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:textSize="29sp"
                     android:text="="
+                    android:background="@drawable/themecalculaladorapink_btn_default_holo_light_round"
                     android:id="@+id/button20" />
             </LinearLayout>
         </LinearLayout>
