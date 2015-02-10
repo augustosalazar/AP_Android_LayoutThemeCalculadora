@@ -262,9 +262,9 @@
                     android:id="@+id/button4" />
 
                 <Button
-                    android:layout_width="fill_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:layout_width="fill_parent"
                     android:textSize="29sp"
                     android:text="="
                     android:background="@drawable/themecalculaladorapink_btn_default_holo_light_round"
